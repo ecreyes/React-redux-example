@@ -16,5 +16,4 @@ store.dispatch(completeTodoAction(0));
 unsubscribe();
 
 
-
 ReactDOM.render(<App />, document.getElementById('root'));
